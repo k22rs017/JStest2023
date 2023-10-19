@@ -12,6 +12,7 @@ html,body {
   margin: 5px;
   height: 40%;
   background: white;
+
 }
 
 #btn {
@@ -22,3 +23,4 @@ html,body {
   content: "▶";
   color: red;
 }
+
